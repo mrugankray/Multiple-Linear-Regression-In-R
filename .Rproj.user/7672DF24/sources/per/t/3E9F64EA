@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527194272974.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4044436468",
+    "id" : "3E9F64EA",
+    "lastKnownWriteTime" : 1527194319,
+    "last_content_update" : 1527194319228,
+    "path" : "/media/mrugank/626CB0316CB00239/for development purpose only/R/machine learning/simple_linear_regression/simple_linear_regression.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

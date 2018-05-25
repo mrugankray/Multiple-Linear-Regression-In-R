@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527073872556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3528738198",
+    "id" : "3E2C4432",
+    "lastKnownWriteTime" : 1527200017,
+    "last_content_update" : 1527200017741,
+    "path" : "/media/mrugank/626CB0316CB00239/for development purpose only/R/machine learning/multiple_linear_regression/multiple_linear_regression.R",
+    "project_path" : "multiple_linear_regression.R",
+    "properties" : {
+        "cursorPosition" : "40,29",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
